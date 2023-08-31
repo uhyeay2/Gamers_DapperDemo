@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Gamers.DataAccess.Tests/TestHelpers/Hidden.cs
+/Gamers.Api/appsettings.json
